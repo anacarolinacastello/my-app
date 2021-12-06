@@ -1,0 +1,116 @@
+{
+  "sorvetes": [
+    {
+      "id": 2,
+      "sabor": "Frutas Vermelhas",
+      "linha": "Gold",
+      "tamanho": "M",
+      "preco": "36.00",
+      "fornecedor": 1
+    },
+    {
+      "id": 3,
+      "sabor": "Pé de Moleque",
+      "linha": "Premium",
+      "tamanho": "G",
+      "preco": "100.00",
+      "fornecedor": 2
+    },
+    {
+      "id": 1,
+      "sabor": "Framboesa",
+      "linha": "Premium",
+      "tamanho": "M",
+      "preco": "50.00",
+      "fornecedor": 3
+    },
+    {
+      "id": "11",
+      "sabor": "Napolitano",
+      "linha": "Comum",
+      "tamanho": "G",
+      "preco": "47.89",
+      "fornecedor": 4
+    },
+    {
+      "id": 9,
+      "sabor": "Frutas Vermelhas",
+      "linha": "Gold",
+      "tamanho": "GG",
+      "preco": "60.00",
+      "fornecedor": 1
+    },
+    {
+      "id": 10,
+      "sabor": "Frutas Vermelhas",
+      "linha": "Gold",
+      "tamanho": "PP",
+      "preco": "15.00",
+      "fornecedor": 1
+    },
+    {
+      "id": 12,
+      "sabor": "Blue Ice",
+      "linha": "Gold",
+      "tamanho": "PP",
+      "preco": "15.00",
+      "fornecedor": 1
+    },
+    {
+      "id": 5,
+      "sabor": "Blue Ice",
+      "linha": "Gold",
+      "tamanho": "P",
+      "preco": "22.00",
+      "fornecedor": 1
+    },
+    {
+      "id": 8,
+      "sabor": "Ice Y",
+      "linha": "Gold",
+      "tamanho": "P",
+      "preco": "22.00",
+      "fornecedor": 3
+    },
+    {
+      "id": "14",
+      "sabor": "Morango",
+      "linha": "Gold",
+      "tamanho": "GG",
+      "preco": "2",
+      "fornecedor": "4"
+    }
+  ],
+  "fornecedores": [
+    {
+      "id": 1,
+      "descricao": "GP Sorvetes",
+      "contato": "(22)998872329",
+      "endereco": "Rua das Flores 468 - PQE - RJ"
+    },
+    {
+      "id": 2,
+      "descricao": "GP Sorvetes 2",
+      "contato": "(22)998872326",
+      "endereco": "Rua das Flores 468 - PQE - RJ"
+    },
+    {
+      "id": "4",
+      "descricao": "Yellow Blue",
+      "contato": "(67)97890-0499",
+      "endereco": "Almirantes 67788"
+    },
+    {
+      "id": "3",
+      "descricao": "Frutos do Amendoim",
+      "contato": "22998872326",
+      "endereco": "Rua XY 789 P"
+    },
+    {
+      "id": "5",
+      "descricao": "Ice Cream ",
+      "contato": "(98)67980-0000",
+      "endereco": "15 de maio 9889"
+    }
+  ]
+}
